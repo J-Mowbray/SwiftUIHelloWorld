@@ -5,7 +5,7 @@ Requires iOS 18 and beyond to run.
 
 
 
-It is a smimple application, which shows the following to the user:
+It is a simple application, which shows the following to the user:
 
 
 <img width="349" alt="image" src="https://github.com/user-attachments/assets/9786929a-de26-4ae8-9901-418a558bad17">
