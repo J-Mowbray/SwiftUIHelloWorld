@@ -14,6 +14,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Text("This is my first iOS app!")
+            Text("\n\nYou are the best! \nYou are awesome!\nYou are loved!  \n \n    I love you! ❤️ ")
         }
         .padding()
     }
